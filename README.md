@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Eu sou Josimar Pessanha, técnico em segurança do trabalho e programador do Brasil.</h2>
+<h2 align="left">Olá 👋! Eu sou Josimar Pessanha.</h2>
 
 ###
 
